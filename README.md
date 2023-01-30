@@ -11,7 +11,7 @@ O Python é uma linguagem de programação poderosa e flexível que fornece uma 
 </p>
 
 
-Este [projeto]() inclui exemplos de código e demonstrações de como realizar análises estatísticas básicas com o Python. Além disso, fornecemos uma descrição detalhada dos dados e dos métodos utilizados, para que você possa entender e replicar as análises realizadas.
+Este [projeto](https://github.com/joaomarcelofc/Estatistica_Basica_Python/blob/main/Estudando_estatistica_basica_Python.ipynb) inclui exemplos de código e demonstrações de como realizar análises estatísticas básicas com o Python. Além disso, fornecemos uma descrição detalhada dos dados e dos métodos utilizados, para que você possa entender e replicar as análises realizadas.
 
 Se você é um iniciante em Python ou em análise de dados, este projeto será uma ótima oportunidade para você aprender e praticar suas habilidades. Se você já é experiente nestas áreas, esperamos que encontre neste projeto ideias e insights para aplicar em seus próprios projetos.
 
