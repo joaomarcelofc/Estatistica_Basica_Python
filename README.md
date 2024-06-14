@@ -1,4 +1,4 @@
-# Estatistica_Basica_Python
+# Estudando estatística básica com Python
 
 A estatística envolve técnicas para coletar, organizar, descrever, analisar e interpretar dados provenientes de experimentos ou vindos de outros estudos observacionais.
 
